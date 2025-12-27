@@ -1,1 +1,1 @@
-# aws-plural
+# mermaid-diagrams
